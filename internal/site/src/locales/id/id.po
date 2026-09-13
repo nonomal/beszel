@@ -1,0 +1,2105 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-11-01 11:30-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: id\n"
+"Project-Id-Version: beszel\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-09-10 00:33\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: beszel\n"
+"X-Crowdin-Project-ID: 733311\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /main/internal/site/src/locales/en/en.po\n"
+"X-Crowdin-File-ID: 32\n"
+
+#. placeholder {0}: newVersion.v
+#: src/components/footer-repo-link.tsx
+msgctxt "New version available"
+msgid "{0} available"
+msgstr "{0} tersedia"
+
+#. placeholder {0}: table.getFilteredSelectedRowModel().rows.length
+#. placeholder {1}: table.getFilteredRowModel().rows.length
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "{0} of {1} row(s) selected."
+msgstr "{0} dari {1} baris terpilih."
+
+#: src/components/routes/system/info-bar.tsx
+msgid "{cores, plural, one {# core} other {# cores}}"
+msgstr "{cores, plural, one {# inti} other {# inti}}"
+
+#: src/lib/utils.ts
+msgid "{count, plural, one {{countString} day} other {{countString} days}}"
+msgstr "{count, plural, one {{countString} hari} other {{countString} hari}}"
+
+#: src/lib/utils.ts
+msgid "{count, plural, one {{countString} hour} other {{countString} hours}}"
+msgstr "{count, plural, one {{countString} jam} other {{countString} jam}}"
+
+#: src/lib/utils.ts
+msgid "{count, plural, one {{countString} minute} few {{countString} minutes} many {{countString} minutes} other {{countString} minutes}}"
+msgstr "{count, plural, one {{countString} menit} few {{countString} menit} many {{countString} menit} other {{countString} menit}}"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgid "{diskName} I/O"
+msgstr "I/O {diskName}"
+
+#: src/components/routes/system/info-bar.tsx
+msgid "{threads, plural, one {# thread} other {# threads}}"
+msgstr "{threads, plural, one {# thread} other {# thread}}"
+
+#: src/lib/utils.ts
+msgid "1 hour"
+msgstr "1 jam"
+
+#. Load average
+#: src/components/routes/system/charts/load-average-chart.tsx
+msgid "1 min"
+msgstr "1 mnt"
+
+#: src/lib/utils.ts
+msgid "1 minute"
+msgstr "1 menit"
+
+#: src/lib/utils.ts
+msgid "1 week"
+msgstr "1 minggu"
+
+#: src/lib/utils.ts
+msgid "12 hours"
+msgstr "12 jam"
+
+#. Load average
+#: src/components/routes/system/charts/load-average-chart.tsx
+msgid "15 min"
+msgstr "15 menit"
+
+#: src/lib/utils.ts
+msgid "24 hours"
+msgstr "24 jam"
+
+#: src/lib/utils.ts
+msgid "30 days"
+msgstr "30 hari"
+
+#. Load average
+#: src/components/routes/system/charts/load-average-chart.tsx
+msgid "5 min"
+msgstr "5 mnt"
+
+#. Table column
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Actions"
+msgstr "Aksi"
+
+#: src/components/alerts-history-columns.tsx
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/settings/heartbeat.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Active"
+msgstr "Aktif"
+
+#: src/components/active-alerts.tsx
+msgid "Active Alerts"
+msgstr "Peringatan Aktif"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Active state"
+msgstr "Status aktif"
+
+#: src/components/add-system.tsx
+#: src/components/add-system.tsx
+#: src/components/navbar.tsx
+#: src/components/navbar.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Add {foo}"
+msgstr "Tambah {foo}"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Add URL"
+msgstr "Tambah URL"
+
+#: src/components/routes/settings/general.tsx
+msgid "Adjust display options for charts."
+msgstr "Sesuaikan tampilan grafik."
+
+#: src/components/routes/settings/general.tsx
+msgid "Adjust the width of the main layout"
+msgstr "Sesuaikan lebar layar utama"
+
+#: src/components/command-palette.tsx
+#: src/components/command-palette.tsx
+#: src/components/navbar.tsx
+msgid "Admin"
+msgstr ""
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "After"
+msgstr "Setelah"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "After setting the environment variables, restart your Beszel hub for changes to take effect."
+msgstr "Setelah mengatur variabel lingkungan, restart hub Beszel Anda agar perubahan dapat diterapkan."
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Agent"
+msgstr "Agen"
+
+#: src/components/command-palette.tsx
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/settings/layout.tsx
+msgid "Alert History"
+msgstr "Riwayat Peringatan"
+
+#: src/components/alerts/alert-button.tsx
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Alerts"
+msgstr "Peringatan"
+
+#: src/components/command-palette.tsx
+#: src/components/containers-table/containers-table.tsx
+#: src/components/navbar.tsx
+#: src/components/navbar.tsx
+#: src/components/routes/containers.tsx
+msgid "All Containers"
+msgstr "Semua Container"
+
+#: src/components/alerts/alerts-sheet.tsx
+#: src/components/command-palette.tsx
+#: src/components/routes/home.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/systems-table/systems-table.tsx
+#: src/components/systems-table/systems-table.tsx
+msgid "All Systems"
+msgstr "Semua Sistem"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Are you sure you want to delete {name}?"
+msgstr "Apakah anda yakin ingin menghapus {name}?"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "Are you sure?"
+msgstr "Apakah anda yakin?"
+
+#: src/components/copy-to-clipboard.tsx
+msgid "Automatic copy requires a secure context."
+msgstr "Copy memerlukan https."
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgctxt "Disk space available"
+msgid "Available"
+msgstr "Tersedia"
+
+#: src/components/routes/system/chart-card.tsx
+msgid "Average"
+msgstr "Rata-rata"
+
+#: src/components/routes/system/charts/cpu-charts.tsx
+msgid "Average CPU utilization of containers"
+msgstr "Rata-rata utilisasi CPU untuk semua kontainer"
+
+#. placeholder {0}: alertData.unit
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Average drops below <0>{value}{0}</0>"
+msgstr "Rata-rata turun di bawah <0>{value}{0}</0>"
+
+#. placeholder {0}: alertData.unit
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Average exceeds <0>{value}{0}</0>"
+msgstr "Rata-rata melebihi <0>{value}{0}</0>"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Average number of I/O operations waiting to be serviced"
+msgstr "Jumlah rata-rata operasi I/O yang menunggu untuk dilayani"
+
+#: src/components/routes/system/charts/gpu-charts.tsx
+msgid "Average power consumption of GPUs"
+msgstr "Rata-rata konsumsi daya GPU"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgctxt "Disk I/O average operation time (iostat await)"
+msgid "Average queue to completion time per operation"
+msgstr "Waktu rata-rata antrian hingga selesai per operasi"
+
+#: src/components/routes/system/charts/cpu-charts.tsx
+msgid "Average system-wide CPU utilization"
+msgstr "Rata-rata utilisasi CPU seluruh sistem"
+
+#. placeholder {0}: gpu.n
+#: src/components/routes/system/charts/gpu-charts.tsx
+msgid "Average utilization of {0}"
+msgstr "Rata-rata utilisasi {0}"
+
+#: src/components/routes/system/charts/gpu-charts.tsx
+msgid "Average utilization of GPU engines"
+msgstr "Rata-rata utilisasi GPU"
+
+#: src/components/command-palette.tsx
+#: src/components/navbar.tsx
+msgid "Backups"
+msgstr "Cadangan"
+
+#: src/components/routes/system/charts/network-charts.tsx
+#: src/lib/alerts.ts
+msgid "Bandwidth"
+msgstr "Bandwith"
+
+#. Battery label in systems table header
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Bat"
+msgstr "Baterai"
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+#: src/components/routes/system/charts/sensor-charts.tsx
+#: src/lib/alerts.ts
+msgid "Battery"
+msgstr "Baterai"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Became active"
+msgstr "Menjadi aktif"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Became inactive"
+msgstr "Menjadi inaktif"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Before"
+msgstr "Sebelum"
+
+#. placeholder {0}: alert.value
+#. placeholder {1}: info.unit
+#. placeholder {2}: alert.min
+#: src/components/active-alerts.tsx
+msgid "Below {0}{1} in last {2, plural, one {# minute} other {# minutes}}"
+msgstr "Di bawah {0}{1} dalam {2, plural, one {# menit} other {# menit}} terakhir"
+
+#: src/components/login/auth-form.tsx
+msgid "Beszel supports OpenID Connect and many OAuth2 authentication providers."
+msgstr "Beszel mendukung OpenID Connect dan OAuth2 dari berbagai penyedia layanan."
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Beszel uses <0>Shoutrrr</0> to integrate with popular notification services."
+msgstr "Beszel menggunakan <0>Shoutrrr</0> untuk mengintegrasikan dengan penyedia layanan notifikasi."
+
+#: src/components/add-system.tsx
+msgid "Binary"
+msgstr "Binari"
+
+#: src/components/routes/settings/general.tsx
+#: src/components/routes/settings/general.tsx
+msgid "Bits (Kbps, Mbps, Gbps)"
+msgstr "Bit (Kbps, Mbps, Gbps)"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Boot state"
+msgstr "Status memulai"
+
+#: src/components/routes/settings/general.tsx
+#: src/components/routes/settings/general.tsx
+msgid "Bytes (KB/s, MB/s, GB/s)"
+msgstr "Byte (KB/s, MB/s, GB/s)"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Cache / Buffers"
+msgstr ""
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Can reload"
+msgstr "Dapat dimuatulang"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Can start"
+msgstr "Dapat dimulai"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Can stop"
+msgstr "Dapat diberhentikan"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Cancel"
+msgstr "Batal"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Capabilities"
+msgstr "Kapabilitas"
+
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Capacity"
+msgstr "Kapasitas"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "Caution - potential data loss"
+msgstr "Perhatian - potensi kehilangan data"
+
+#: src/components/routes/settings/general.tsx
+msgid "Celsius (°C)"
+msgstr ""
+
+#: src/components/routes/settings/general.tsx
+msgid "Change display units for metrics."
+msgstr "Ubah tampilan satuan untuk metrik."
+
+#: src/components/routes/settings/general.tsx
+msgid "Change general application options."
+msgstr "Ubah pengaturan umum aplikasi."
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+msgid "Charge"
+msgstr "Isi baterai"
+
+#. Context: Battery state
+#: src/lib/i18n.ts
+msgid "Charging"
+msgstr "Sedang mengisi"
+
+#: src/components/routes/settings/general.tsx
+msgid "Chart options"
+msgstr "Pilihan grafik"
+
+#: src/components/routes/system/info-bar.tsx
+msgid "Chart width"
+msgstr "Lebar grafik"
+
+#: src/components/login/forgot-pass-form.tsx
+msgid "Check {email} for a reset link."
+msgstr "Periksa {email} untuk tautan atur ulang password."
+
+#: src/components/routes/settings/layout.tsx
+msgid "Check logs for more details."
+msgstr "Periksa riwayat untuk lebih detail."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Check your monitoring service"
+msgstr "Periksa layanan pemantauan Anda"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Check your notification service"
+msgstr "Periksa jasa penyedia notifikasi anda"
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Checksum errors"
+msgstr "Kesalahan checksum"
+
+#: src/components/containers-table/containers-table.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systems-table/systems-table.tsx
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: src/components/containers-table/containers-table.tsx
+msgid "Click on a container to view more information."
+msgstr "Klik pada kontainer untuk melihat informasi lebih banyak."
+
+#: src/components/routes/system/smart-table.tsx
+msgid "Click on a device to view more information."
+msgstr "Klik pada perangkat untuk melihat informasi lebih banyak."
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Click on a pool to view vdev and dataset details."
+msgstr "Klik pool untuk melihat detail vdev dan dataset."
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Click on a system to view more information."
+msgstr "Klik pada sistem untuk melihat informasi lebih banyak."
+
+#: src/components/ui/input-copy.tsx
+msgid "Click to copy"
+msgstr "Klik untuk menyalin"
+
+#: src/components/login/forgot-pass-form.tsx
+#: src/components/login/forgot-pass-form.tsx
+msgid "Command line instructions"
+msgstr "Instruksi command line"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Configure how you receive alert notifications."
+msgstr "Konfigurasi bagaimana anda menerima notifikasi peringatan."
+
+#: src/components/login/auth-form.tsx
+#: src/components/login/auth-form.tsx
+msgid "Confirm password"
+msgstr "Konfirmasi kata sandi"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Conflicts"
+msgstr "Konflik"
+
+#: src/components/active-alerts.tsx
+msgid "Connection is down"
+msgstr "Koneksi terputus"
+
+#: src/lib/alerts.ts
+msgid "Container"
+msgstr "Kontainer"
+
+#: src/lib/alerts.ts
+msgid "Container Health"
+msgstr "Kesehatan Kontainer"
+
+#: src/components/routes/system.tsx
+msgid "Containers"
+msgstr "Kontainer"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: src/lib/utils.ts
+msgid "Copied to clipboard"
+msgstr "Disalin ke clipboard"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Button to copy docker compose file content"
+msgid "Copy docker compose"
+msgstr "Salin docker compose"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Button to copy docker run command"
+msgid "Copy docker run"
+msgstr "Salin docker run"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Environment variables"
+msgid "Copy env"
+msgstr "Salin env"
+
+#: src/components/alerts/alerts-sheet.tsx
+msgctxt "Copy alerts from another system"
+msgid "Copy from"
+msgstr "Salin dari"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Copy host"
+msgstr "Salin host"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Copy Linux command"
+msgstr "Salin perintah Linux"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Copy name"
+msgstr "Salin nama"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Copy public key"
+msgstr "Salin kunci publik"
+
+#: src/components/copy-to-clipboard.tsx
+msgid "Copy text"
+msgstr "Salin teks"
+
+#: src/components/add-system.tsx
+msgid "Copy the installation command for the agent below, or register agents automatically with a <0>universal token</0>."
+msgstr "Salin perintah instalasi untuk agen di bawah, atau daftarkan agen secara otomatis dengan <0>universal token</0>."
+
+#: src/components/add-system.tsx
+msgid "Copy the<0>docker-compose.yml</0> content for the agent below, or register agents automatically with a <1>universal token</1>."
+msgstr "Salin konten <0>docker-compose.yml</0> untuk agen di bawah, atau daftarkan agen secara otomatis dengan <1>universal token</1>."
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Copy YAML"
+msgstr "Salin YAML"
+
+#: src/components/routes/system.tsx
+msgctxt "Core system metrics"
+msgid "Core"
+msgstr "Inti"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/systemd-table/systemd-table-columns.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "CPU"
+msgstr ""
+
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "CPU Cores"
+msgstr "Inti CPU"
+
+#: src/lib/alerts.ts
+msgid "CPU I/O Wait"
+msgstr "Waktu tunggu I/O CPU (IOWait)"
+
+#: src/components/systemd-table/systemd-table-columns.tsx
+msgid "CPU Peak"
+msgstr "Puncak CPU"
+
+#: src/lib/alerts.ts
+msgid "CPU Steal Time"
+msgstr "Waktu CPU yang diambil hypervisor (Steal)"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "CPU time"
+msgstr "Waktu CPU"
+
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "CPU Time Breakdown"
+msgstr "Rincian Waktu CPU"
+
+#: src/components/routes/system/charts/cpu-charts.tsx
+#: src/components/routes/system/charts/cpu-charts.tsx
+#: src/components/routes/system/cpu-sheet.tsx
+#: src/lib/alerts.ts
+msgid "CPU Usage"
+msgstr "Penggunaan CPU"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Create"
+msgstr "Buat"
+
+#: src/components/login/auth-form.tsx
+msgid "Create account"
+msgstr "Buat akun"
+
+#. Context: date created
+#: src/components/alerts-history-columns.tsx
+msgid "Created"
+msgstr "Dibuat"
+
+#: src/components/routes/settings/general.tsx
+msgid "Critical (%)"
+msgstr "Kritis (%)"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Cumulative data read since boot"
+msgstr "Total data yang dibaca sejak boot"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Cumulative data written since boot"
+msgstr "Total data yang ditulis sejak boot"
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Cumulative Download"
+msgstr "Akumulasi Download"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Cumulative Read"
+msgstr "Total pembacaan"
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Cumulative Upload"
+msgstr "Akumulasi Upload"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Cumulative Write"
+msgstr "Total penulisan"
+
+#. Context: Battery state
+#. Context: Battery state
+#: src/components/routes/system/charts/sensor-charts.tsx
+#: src/components/routes/system/charts/sensor-charts.tsx
+msgid "Current state"
+msgstr "Status saat ini"
+
+#. Power Cycles
+#: src/components/routes/system/smart-table.tsx
+msgid "Cycles"
+msgstr "Siklus"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Daily"
+msgstr "Harian"
+
+#: src/components/routes/system/info-bar.tsx
+msgctxt "Default system layout option"
+msgid "Default"
+msgstr ""
+
+#: src/components/routes/settings/general.tsx
+msgid "Default time period"
+msgstr "Standar waktu"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Delete"
+msgstr "Hapus"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Delete fingerprint"
+msgstr "Hapus fingerprint"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Description"
+msgstr "Deskripsi"
+
+#: src/components/containers-table/containers-table.tsx
+msgid "Detail"
+msgstr ""
+
+#: src/components/routes/system/smart-table.tsx
+msgid "Device"
+msgstr "Perangkat"
+
+#. Context: Battery state
+#: src/lib/i18n.ts
+msgid "Discharging"
+msgstr "Sedang tidak di charge"
+
+#: src/components/routes/system.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Disk"
+msgstr ""
+
+#: src/components/routes/settings/general.tsx
+msgid "Disk unit"
+msgstr "Unit disk"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/lib/alerts.ts
+msgid "Disk Usage"
+msgstr "Penggunaan Disk"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgid "Disk usage of {extraFsName}"
+msgstr "Penggunaan disk dari {extraFsName}"
+
+#: src/components/routes/system/info-bar.tsx
+msgctxt "Layout display options"
+msgid "Display"
+msgstr "Tampilan"
+
+#: src/components/routes/system/charts/cpu-charts.tsx
+msgid "Docker CPU Usage"
+msgstr "Penggunaan CPU Docker"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Docker Memory Usage"
+msgstr "Penggunaan Memori Docker"
+
+#: src/components/routes/system/charts/network-charts.tsx
+msgid "Docker Network I/O"
+msgstr "I/O Jaringan Docker"
+
+#: src/components/command-palette.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#. Context: System is down
+#: src/components/alerts-history-columns.tsx
+#: src/components/routes/system/info-bar.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+#: src/lib/alerts.ts
+msgid "Down"
+msgstr "Mati"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Down ({downSystemsLength})"
+msgstr "Mati ({downSystemsLength})"
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Download"
+msgstr "Unduh"
+
+#: src/components/alerts-history-columns.tsx
+msgid "Duration"
+msgstr "Durasi"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Edit"
+msgstr "Ubah"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Edit {foo}"
+msgstr "Ubah {foo}"
+
+#: src/components/login/auth-form.tsx
+#: src/components/login/forgot-pass-form.tsx
+#: src/components/login/otp-forms.tsx
+msgid "Email"
+msgstr ""
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Email notifications"
+msgstr "Notifikasi email"
+
+#. Context: Battery state
+#: src/lib/i18n.ts
+msgid "Empty"
+msgstr "Kosong"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "End Time"
+msgstr "Waktu Berakhir"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Endpoint URL"
+msgstr "URL Titik Akhir"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Endpoint URL to ping (required)"
+msgstr "URL titik akhir untuk di-ping (diperlukan)"
+
+#: src/components/login/login.tsx
+msgid "Enter email address to reset password"
+msgstr "Masukkan alamat email untuk mereset kata sandi"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Enter email address..."
+msgstr "Masukkan alamat email..."
+
+#: src/components/login/otp-forms.tsx
+msgid "Enter your one-time password."
+msgstr "Masukkan otp anda."
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Ephemeral"
+msgstr "Sementara"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/settings/config-yaml.tsx
+#: src/components/routes/settings/heartbeat.tsx
+#: src/components/routes/settings/heartbeat.tsx
+#: src/components/routes/settings/heartbeat.tsx
+#: src/components/routes/settings/notifications.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Error"
+msgstr ""
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Example:"
+msgstr "Contoh:"
+
+#. placeholder {0}: alert.value
+#. placeholder {1}: info.unit
+#. placeholder {2}: alert.min
+#: src/components/active-alerts.tsx
+msgid "Exceeds {0}{1} in last {2, plural, one {# minute} other {# minutes}}"
+msgstr "Melebihi {0}{1} dalam {2, plural, one {# menit} other {# menit}} terakhir"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Exec main PID"
+msgstr "PID utama exec"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "Existing systems not defined in <0>config.yml</0> will be deleted. Please make regular backups."
+msgstr "Sistem yang ada yang tidak didefinisikan dalam <0>config.yml</0> akan dihapus. Silakan buat cadangan secara teratur."
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Exited active"
+msgstr "Keluar aktif"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Expires after one hour or on hub restart."
+msgstr "Kedaluwarsa setelah satu jam atau saat restart hub."
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "Export"
+msgstr "Ekspor"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "Export configuration"
+msgstr "Export konfigurasi"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "Export your current systems configuration."
+msgstr "Export konfigurasi sistem anda saat ini."
+
+#: src/components/routes/settings/general.tsx
+msgid "Fahrenheit (°F)"
+msgstr ""
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Failed"
+msgstr "Gagal"
+
+#: src/components/routes/system/smart-table.tsx
+msgid "Failed Attributes:"
+msgstr "Atribut yang Gagal:"
+
+#: src/lib/alerts.ts
+msgid "Failed Services"
+msgstr "Layanan gagal"
+
+#: src/lib/api.ts
+msgid "Failed to authenticate"
+msgstr "Gagal mengautentikasi"
+
+#: src/components/routes/settings/layout.tsx
+#: src/components/routes/settings/notifications.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Failed to save settings"
+msgstr "Gagal menyimpan pengaturan"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Failed to send heartbeat"
+msgstr "Gagal mengirim heartbeat"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Failed to send test notification"
+msgstr "Gagal mengirim tes notifikasi"
+
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Failed to update alert"
+msgstr "Gagal memperbarui peringatan"
+
+#. placeholder {0}: statusTotals[ServiceStatus.Failed]
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Failed: {0}"
+msgstr "Gagal: {0}"
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+msgid "Fans"
+msgstr "Kipas"
+
+#: src/components/containers-table/containers-table.tsx
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/system/chart-card.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systems-table/systems-table.tsx
+msgid "Filter..."
+msgstr "Saring..."
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Fingerprint"
+msgstr "Sidik jari"
+
+#: src/components/routes/system/smart-table.tsx
+msgid "Firmware"
+msgstr ""
+
+#: src/components/alerts/alerts-sheet.tsx
+msgid "For <0>{min}</0> {min, plural, one {minute} other {minutes}}"
+msgstr "Untuk <0>{min}</0> {min, plural, one {menit} other {menit}}"
+
+#: src/components/login/auth-form.tsx
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgctxt "Free space"
+msgid "Free"
+msgstr "Kosong"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Button to copy install command"
+msgid "FreeBSD command"
+msgstr "Perintah FreeBSD"
+
+#. Context: Battery state
+#: src/components/routes/system/info-bar.tsx
+#: src/lib/i18n.ts
+msgid "Full"
+msgstr "Penuh"
+
+#. Context: General settings
+#: src/components/routes/settings/general.tsx
+#: src/components/routes/settings/layout.tsx
+msgid "General"
+msgstr "Umum"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Global"
+msgstr ""
+
+#: src/components/routes/system.tsx
+msgid "GPU"
+msgstr ""
+
+#: src/components/routes/system/charts/gpu-charts.tsx
+msgid "GPU Engines"
+msgstr "GPU"
+
+#: src/components/routes/system/charts/gpu-charts.tsx
+msgid "GPU Power Draw"
+msgstr "Konsumsi Daya GPU"
+
+#: src/lib/alerts.ts
+msgid "GPU Usage"
+msgstr "Penggunaan GPU"
+
+#: src/components/routes/system/info-bar.tsx
+#: src/components/systems-table/systems-table.tsx
+msgid "Grid"
+msgstr "Kartu"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Health"
+msgstr "Kesehatan"
+
+#: src/components/routes/settings/layout.tsx
+msgid "Heartbeat"
+msgstr ""
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Heartbeat Monitoring"
+msgstr "Pemantauan Heartbeat"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Heartbeat sent successfully"
+msgstr "Heartbeat berhasil dikirim"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Button to copy install command"
+msgid "Homebrew command"
+msgstr "Perintah Homebrew"
+
+#: src/components/add-system.tsx
+msgid "Host / IP"
+msgstr ""
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "HTTP Method"
+msgstr "Metode HTTP"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "HTTP method: POST, GET, or HEAD (default: POST)"
+msgstr "Metode HTTP: POST, GET, atau HEAD (default: POST)"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgctxt "Disk I/O average operation time (iostat await)"
+msgid "I/O Await"
+msgstr ""
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgctxt "Disk I/O total time spent on read/write"
+msgid "I/O Time"
+msgstr "Waktu I/O"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgctxt "Percent of time the disk is busy with I/O"
+msgid "I/O Utilization"
+msgstr "Utilisasi I/O"
+
+#. Context: Battery state
+#: src/lib/i18n.ts
+msgid "Idle"
+msgstr ""
+
+#: src/components/login/forgot-pass-form.tsx
+msgid "If you've lost the password to your admin account, you may reset it using the following command."
+msgstr "Jika anda kehilangan kata sandi untuk akun admin anda, anda dapat meresetnya menggunakan perintah berikut."
+
+#: src/components/containers-table/containers-table-columns.tsx
+msgctxt "Docker image"
+msgid "Image"
+msgstr "Gambar"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Inactive"
+msgstr "Tidak aktif"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Interval"
+msgstr ""
+
+#: src/components/login/auth-form.tsx
+msgid "Invalid email address."
+msgstr "Alamat email tidak valid."
+
+#: src/components/routes/settings/general.tsx
+msgid "Language"
+msgstr "Bahasa"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Layout"
+msgstr "Tampilan"
+
+#: src/components/routes/settings/general.tsx
+msgid "Layout width"
+msgstr "Lebar tampilan"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Lifecycle"
+msgstr "Siklus hidup"
+
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "limit"
+msgstr "batas"
+
+#: src/components/routes/system/charts/load-average-chart.tsx
+msgid "Load Average"
+msgstr "Rata-rata Beban"
+
+#: src/lib/alerts.ts
+msgid "Load Average 15m"
+msgstr "Rata-rata Beban 15m"
+
+#: src/lib/alerts.ts
+msgid "Load Average 1m"
+msgstr "Rata-rata Beban 1m"
+
+#: src/lib/alerts.ts
+msgid "Load Average 5m"
+msgstr "Rata-rata Beban 5m"
+
+#. Short label for load average
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Load Avg"
+msgstr "Rata-rata Beban"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Load state"
+msgstr "Beban saat ini"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Loading..."
+msgstr "Memuat..."
+
+#: src/components/navbar.tsx
+#: src/components/navbar.tsx
+msgid "Log Out"
+msgstr "Keluar"
+
+#: src/components/login/login.tsx
+msgid "Login"
+msgstr "Masuk"
+
+#: src/components/login/auth-form.tsx
+#: src/components/login/forgot-pass-form.tsx
+msgid "Login attempt failed"
+msgstr "Percobaan masuk gagal"
+
+#: src/components/command-palette.tsx
+#: src/components/containers-table/containers-table.tsx
+#: src/components/navbar.tsx
+msgid "Logs"
+msgstr "Log"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Looking instead for where to create alerts? Click the bell <0/> icons in the systems table."
+msgstr "Mencari tempat untuk membuat peringatan? Klik ikon lonceng <0/> di tabel sistem."
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Main PID"
+msgstr "PID utama"
+
+#: src/components/routes/settings/layout.tsx
+msgid "Manage display and notification preferences."
+msgstr "Kelola preferensi tampilan dan notifikasi."
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Manual setup instructions"
+msgstr "Instruksi setup manual"
+
+#. Chart select field. Please try to keep this short.
+#: src/components/routes/system/chart-card.tsx
+msgid "Max 1 min"
+msgstr "Maks 1 mnt"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/routes/system/info-bar.tsx
+#: src/components/systemd-table/systemd-table-columns.tsx
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Memory"
+msgstr "Memori"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Memory limit"
+msgstr "Batas memori"
+
+#: src/components/systemd-table/systemd-table-columns.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Memory Peak"
+msgstr "Puncak Memori"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+#: src/lib/alerts.ts
+msgid "Memory Usage"
+msgstr "Penggunaan Memori"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Memory usage of containers"
+msgstr "Penggunaan memori container"
+
+#. Device model
+#: src/components/routes/system/smart-table.tsx
+msgid "Model"
+msgstr ""
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Mountpoint"
+msgstr "Titik kait"
+
+#: src/components/add-system.tsx
+#: src/components/alerts-history-columns.tsx
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/systemd-table/systemd-table-columns.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Name"
+msgstr "Nama"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Net"
+msgstr "Jaringan"
+
+#: src/components/routes/system/charts/network-charts.tsx
+msgid "Network traffic of containers"
+msgstr "Lalu lintas jaringan container"
+
+#: src/components/routes/system/charts/network-charts.tsx
+#: src/components/routes/system/network-sheet.tsx
+#: src/components/routes/system/network-sheet.tsx
+#: src/components/routes/system/network-sheet.tsx
+msgid "Network traffic of public interfaces"
+msgstr "Trafik jaringan antarmuka publik"
+
+#. Context: Bytes or bits
+#: src/components/routes/settings/general.tsx
+msgid "Network unit"
+msgstr "Unit jaringan"
+
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "No"
+msgstr "Tidak"
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "No detail data for this pool."
+msgstr "Tidak ada data terperinci yang tersedia untuk pool ini."
+
+#: src/components/command-palette.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "No results found."
+msgstr "Tidak ada hasil ditemukan."
+
+#: src/components/containers-table/containers-table.tsx
+#: src/components/containers-table/containers-table.tsx
+#: src/components/containers-table/containers-table.tsx
+#: src/components/routes/settings/alerts-history-data-table.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "No results."
+msgstr "Tidak ada hasil."
+
+#: src/components/routes/system/smart-table.tsx
+msgid "No S.M.A.R.T. attributes available for this device."
+msgstr "Tidak ada atribut S.M.A.R.T. yang tersedia untuk perangkat ini."
+
+#: src/components/systems-table/systems-table.tsx
+#: src/components/systems-table/systems-table.tsx
+msgid "No systems found."
+msgstr "Sistem tidak ditemukan."
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "None"
+msgstr "Tidak ada"
+
+#: src/components/command-palette.tsx
+#: src/components/routes/settings/layout.tsx
+#: src/components/routes/settings/notifications.tsx
+msgid "Notifications"
+msgstr "Notifikasi"
+
+#: src/lib/alerts.ts
+msgid "Notifications may include recent container log excerpts."
+msgstr "Notifikasi dapat menyertakan cuplikan terbaru dari log kontainer."
+
+#: src/components/login/auth-form.tsx
+msgid "OAuth 2 / OIDC support"
+msgstr "Dukungan OAuth 2 / OIDC"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "On each restart, systems in the database will be updated to match the systems defined in the file."
+msgstr "Pada setiap restart, sistem dalam database akan diperbarui untuk mencocokkan sistem yang didefinisikan dalam file."
+
+#: src/lib/alerts.ts
+msgid "One or more containers are unhealthy"
+msgstr "Satu atau beberapa kontainer tidak sehat"
+
+#: src/lib/alerts.ts
+msgid "One or more services are in a failed state"
+msgstr "Satu atau beberapa layanan berada dalam status gagal"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "One-time"
+msgstr "Sekali pakai"
+
+#: src/components/login/auth-form.tsx
+msgid "One-time password"
+msgstr "Kata sandi sekali pakai (OTP)"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Open menu"
+msgstr "Buka menu"
+
+#: src/components/login/auth-form.tsx
+msgid "Or continue with"
+msgstr "Atau lanjutkan dengan"
+
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "Other"
+msgstr "Lainnya"
+
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Overwrite existing alerts"
+msgstr "Timpa peringatan yang ada"
+
+#: src/components/command-palette.tsx
+#: src/components/command-palette.tsx
+#: src/components/command-palette.tsx
+msgid "Page"
+msgstr "Halaman"
+
+#. placeholder {0}: table.getState().pagination.pageIndex + 1
+#. placeholder {1}: table.getPageCount()
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "Page {0} of {1}"
+msgstr "Halaman {0} dari {1}"
+
+#: src/components/command-palette.tsx
+msgid "Pages / Settings"
+msgstr "Halaman / Pengaturan"
+
+#: src/components/login/auth-form.tsx
+#: src/components/login/auth-form.tsx
+msgid "Password"
+msgstr "Kata sandi"
+
+#: src/components/login/auth-form.tsx
+msgid "Password must be at least 8 characters."
+msgstr "Kata sandi harus minimal 8 karakter."
+
+#: src/components/login/auth-form.tsx
+msgid "Password must be less than 72 bytes."
+msgstr "Kata sandi harus kurang dari 72 byte."
+
+#: src/components/login/forgot-pass-form.tsx
+msgid "Password reset request received"
+msgstr "Permintaan reset kata sandi diterima"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Past"
+msgstr "Lalu"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Pause"
+msgstr "Jeda"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Paused"
+msgstr "Dijeda"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Paused ({pausedSystemsLength})"
+msgstr "Dijeda ({pausedSystemsLength})"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Payload format"
+msgstr "Format payload"
+
+#: src/components/routes/system/cpu-sheet.tsx
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "Per-core average utilization"
+msgstr "Rata-rata utilisasi per-inti"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgid "Percent of time the disk is busy with I/O"
+msgstr "Persentase waktu disk sibuk dengan I/O"
+
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "Percentage of time spent in each state"
+msgstr "Persentase waktu yang dihabiskan di setiap status"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Permanent"
+msgstr "Permanen"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Persistence"
+msgstr "Tetap berlaku"
+
+#: src/components/routes/system/raw-capacity-label.tsx
+msgid "Physical device space. True usable capacity is unknown. Pool disk usage alerts are disabled."
+msgstr "Ruang perangkat fisik. Kapasitas sebenarnya yang dapat digunakan tidak diketahui. Peringatan penggunaan disk pool dinonaktifkan."
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Please <0>configure an SMTP server</0> to ensure alerts are delivered."
+msgstr "Silakan <0>konfigurasi server SMTP</0> untuk memastikan peringatan dikirimkan."
+
+#: src/components/alerts/alerts-sheet.tsx
+msgid "Please check logs for more details."
+msgstr "Silakan periksa log untuk detail lebih lanjut."
+
+#: src/components/login/auth-form.tsx
+#: src/components/login/forgot-pass-form.tsx
+msgid "Please check your credentials and try again"
+msgstr "Silakan periksa kredensial anda dan coba lagi"
+
+#: src/components/login/login.tsx
+msgid "Please create an admin account"
+msgstr "Silakan buat akun admin"
+
+#: src/components/login/auth-form.tsx
+msgid "Please enable pop-ups for this site"
+msgstr "Silakan aktifkan pop-up untuk situs ini"
+
+#: src/lib/api.ts
+msgid "Please log in again"
+msgstr "Silakan masuk lagi"
+
+#: src/components/login/auth-form.tsx
+msgid "Please see <0>the documentation</0> for instructions."
+msgstr "Silakan lihat <0>dokumentasi</0> untuk instruksi."
+
+#: src/components/login/login.tsx
+msgid "Please sign in to your account"
+msgstr "Silakan masuk ke akun anda"
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Pool Health"
+msgstr "Kesehatan pool"
+
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+msgid "Pool Usage"
+msgstr "Penggunaan pool"
+
+#: src/components/add-system.tsx
+msgid "Port"
+msgstr ""
+
+#: src/components/containers-table/containers-table-columns.tsx
+msgctxt "Container ports"
+msgid "Ports"
+msgstr "Port"
+
+#. Power On Time
+#: src/components/routes/system/smart-table.tsx
+msgid "Power On"
+msgstr "Dihidupkan"
+
+#: src/components/routes/system/charts/gpu-charts.tsx
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Precise utilization at the recorded time"
+msgstr "Utilisasi tepat pada waktu yang direkam"
+
+#: src/components/routes/settings/general.tsx
+msgid "Preferred Language"
+msgstr "Pilihan Bahasa"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Process started"
+msgstr "Proses dimulai"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Public key"
+msgstr "Kunci publik"
+
+#. Use 'Key' if your language requires many more characters
+#: src/components/add-system.tsx
+msgid "Public Key"
+msgstr "Kunci Publik"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgctxt "Disk I/O average queue depth"
+msgid "Queue Depth"
+msgstr "Kedalaman Antrian"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Quiet Hours"
+msgstr "Jam Tenang"
+
+#: src/components/routes/system/raw-capacity-label.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Raw"
+msgstr "Mentah"
+
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+msgid "Raw usage of storage pool {displayName}"
+msgstr "Penggunaan mentah pool penyimpanan {displayName}"
+
+#. Disk read
+#. Disk read
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Read"
+msgstr "Baca"
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Read errors"
+msgstr "Kesalahan baca"
+
+#: src/components/routes/system/charts/network-charts.tsx
+msgid "Received"
+msgstr "Diterima"
+
+#: src/components/containers-table/containers-table.tsx
+#: src/components/containers-table/containers-table.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Refresh"
+msgstr "Muat ulang"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Relationships"
+msgstr "Relasi"
+
+#: src/components/login/login.tsx
+msgid "Request a one-time password"
+msgstr "Minta kata sandi sekali pakai"
+
+#: src/components/login/otp-forms.tsx
+msgid "Request OTP"
+msgstr "Minta OTP"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Required by"
+msgstr "Diperlukan oleh"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Requires"
+msgstr "Memerlukan"
+
+#: src/components/login/forgot-pass-form.tsx
+msgid "Reset Password"
+msgstr "Reset Kata Sandi"
+
+#: src/components/alerts-history-columns.tsx
+#: src/components/alerts-history-columns.tsx
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "Resolved"
+msgstr "Diselesaikan"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Restarts"
+msgstr "Restart"
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Resume"
+msgstr "Lanjutkan"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgctxt "Root disk label"
+msgid "Root"
+msgstr ""
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Rotate token"
+msgstr "Ganti ulang token"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "Rows per page"
+msgstr "Baris per halaman"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Runtime Metrics"
+msgstr "Metrik Runtime"
+
+#: src/components/routes/system/smart-table.tsx
+msgid "S.M.A.R.T. Details"
+msgstr "Detail S.M.A.R.T."
+
+#: src/components/routes/system/smart-table.tsx
+msgid "S.M.A.R.T. Self-Test"
+msgstr "Self-Test S.M.A.R.T."
+
+#: src/components/add-system.tsx
+msgid "Save {foo}"
+msgstr "Simpan {foo}"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Save address using enter key or comma. Leave blank to disable email notifications."
+msgstr "Simpan alamat menggunakan tombol enter atau koma. Biarkan kosong untuk menonaktifkan notifikasi email."
+
+#: src/components/routes/settings/general.tsx
+#: src/components/routes/settings/notifications.tsx
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Saved in the database and does not expire until you disable it."
+msgstr "Disimpan di database dan tidak kedaluwarsa sampai Anda menonaktifkannya."
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Schedule"
+msgstr "Jadwal"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Schedule quiet hours where notifications will not be sent, such as during maintenance periods."
+msgstr "Jadwalkan jam tenang dimana notifikasi tidak akan dikirim, seperti saat periode pemeliharaan."
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Schedule quiet hours where notifications will not be sent."
+msgstr "Jadwalkan jam tenang dimana notifikasi tidak akan dikirim."
+
+#: src/components/navbar.tsx
+msgid "Search"
+msgstr "Cari"
+
+#: src/components/command-palette.tsx
+msgid "Search for systems or settings..."
+msgstr "Cari sistem atau pengaturan..."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Seconds between pings (default: 60)"
+msgstr "Detik di antara ping (default: 60)"
+
+#: src/components/alerts/alerts-sheet.tsx
+msgid "See <0>notification settings</0> to configure how you receive alerts."
+msgstr "Lihat <0>pengaturan notifikasi</0> untuk mengkonfigurasi bagaimana anda menerima peringatan."
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Select {foo}"
+msgstr "Pilih {foo}"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Send a single heartbeat ping to verify your endpoint is working."
+msgstr "Kirim satu ping heartbeat untuk memverifikasi titik akhir Anda berfungsi."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Send periodic outbound pings to an external monitoring service so you can monitor Beszel without exposing it to the internet."
+msgstr "Kirim ping keluar secara berkala ke layanan pemantauan eksternal sehingga Anda dapat memantau Beszel tanpa mengeksposnya ke internet."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Send test heartbeat"
+msgstr "Kirim tes heartbeat"
+
+#: src/components/routes/system/charts/network-charts.tsx
+msgid "Sent"
+msgstr "Dikirim"
+
+#: src/components/routes/system/smart-table.tsx
+msgid "Serial Number"
+msgstr "Nomor Seri"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Service Details"
+msgstr "Detail Layanan"
+
+#: src/components/routes/system.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Services"
+msgstr "Layanan"
+
+#: src/components/routes/settings/general.tsx
+msgid "Set percentage thresholds for meter colors."
+msgstr "Tetapkan ambang persentase untuk warna meter."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Set the following environment variables on your Beszel hub to enable heartbeat monitoring:"
+msgstr "Setel variabel lingkungan berikut di hub Beszel Anda untuk mengaktifkan pemantauan heartbeat:"
+
+#: src/components/command-palette.tsx
+#: src/components/command-palette.tsx
+#: src/components/navbar.tsx
+#: src/components/navbar.tsx
+#: src/components/routes/settings/layout.tsx
+#: src/components/routes/settings/layout.tsx
+#: src/components/routes/system/info-bar.tsx
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: src/components/routes/settings/layout.tsx
+msgid "Settings saved"
+msgstr "Pengaturan disimpan"
+
+#: src/components/login/auth-form.tsx
+msgid "Sign in"
+msgstr "Masuk"
+
+#: src/components/command-palette.tsx
+msgid "SMTP settings"
+msgstr "Pengaturan SMTP"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Sort By"
+msgstr "Urutkan Berdasarkan"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Start Time"
+msgstr "Waktu Mulai"
+
+#. Context: alert state (active or resolved)
+#: src/components/alerts-history-columns.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systemd-table/systemd-table-columns.tsx
+msgid "State"
+msgstr "Status"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systems-table/systems-table.tsx
+#: src/lib/alerts.ts
+msgid "Status"
+msgstr ""
+
+#: src/components/systemd-table/systemd-table-columns.tsx
+msgid "Sub State"
+msgstr "Sub Status"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Swap space used by the system"
+msgstr "Ruang swap yang digunakan oleh sistem"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+msgid "Swap Usage"
+msgstr "Penggunaan Swap"
+
+#: src/components/mode-toggle.tsx
+#: src/components/mode-toggle.tsx
+msgid "Switch theme"
+msgstr "Ganti tema"
+
+#: src/components/add-system.tsx
+#: src/components/alerts-history-columns.tsx
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/navbar.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+#: src/lib/alerts.ts
+msgid "System"
+msgstr "Sistem"
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+msgid "System fan speeds (RPM)"
+msgstr "Kecepatan kipas sistem (RPM)"
+
+#: src/components/routes/system/charts/load-average-chart.tsx
+msgid "System load averages over time"
+msgstr "Rata-rata beban sistem dari waktu ke waktu"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Systemd Services"
+msgstr "Layanan Systemd"
+
+#: src/components/navbar.tsx
+msgid "Systems"
+msgstr "Sistem"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "Systems may be managed in a <0>config.yml</0> file inside your data directory."
+msgstr "Sistem dapat dikelola dalam file <0>config.yml</0> di dalam direktori data anda."
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Table"
+msgstr "Tabel"
+
+#: src/components/routes/system/info-bar.tsx
+msgctxt "Tabs system layout option"
+msgid "Tabs"
+msgstr "Tab"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Tasks"
+msgstr "Tugas"
+
+#. Temperature label in systems table
+#: src/components/routes/system/smart-table.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Temp"
+msgstr "Temperatur"
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+#: src/lib/alerts.ts
+msgid "Temperature"
+msgstr "Temperatur"
+
+#: src/components/routes/settings/general.tsx
+msgid "Temperature unit"
+msgstr "Unit temperatur"
+
+#: src/components/routes/system/charts/sensor-charts.tsx
+msgid "Temperatures of system sensors"
+msgstr "Temperatur sensor sistem"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Test <0>URL</0>"
+msgstr "Tes <0>URL</0>"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "Test heartbeat"
+msgstr "Tes heartbeat"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Test notification sent"
+msgstr "Notifikasi tes dikirim"
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "The overall status is <0>ok</0> when all systems are up, <1>warn</1> when alerts are triggered, and <2>error</2> when any system is down."
+msgstr "Status keseluruhan adalah <0>ok</0> ketika semua sistem aktif, <1>warn</1> ketika peringatan dipicu, dan <2>error</2> ketika ada sistem yang mati."
+
+#: src/components/login/forgot-pass-form.tsx
+msgid "Then log into the backend and reset your user account password in the users table."
+msgstr "Kemudian masuk ke backend dan reset kata sandi akun pengguna anda di tabel pengguna."
+
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "This action cannot be undone. This will permanently delete all current records for {name} from the database."
+msgstr "Aksi ini tidak dapat di kembalikan. ini akan menghapus permanen semua record {name} dari database"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "This will permanently delete all selected records from the database."
+msgstr "Ini akan menghapus secara permanen semua record yang dipilih dari database."
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgid "Throughput of {extraFsName}"
+msgstr "Throughput dari {extraFsName}"
+
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+msgid "Throughput of storage pool {displayName}"
+msgstr "Laju transfer pool penyimpanan {displayName}"
+
+#: src/components/routes/settings/general.tsx
+msgid "Time format"
+msgstr "Format waktu"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "To email(s)"
+msgstr "Ke email"
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Token"
+msgstr ""
+
+#: src/components/command-palette.tsx
+#: src/components/routes/settings/layout.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Tokens & Fingerprints"
+msgstr "Token & Fingerprint"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Tokens allow agents to connect and register. Fingerprints are stable identifiers unique to each system, set on first connection."
+msgstr "Token memungkinkan agen untuk terhubung dan mendaftar. Fingerprint adalah sistem indentifikasi yang stabil dan unik untuk setiap sistem, diatur pada koneksi pertama."
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Tokens and fingerprints are used to authenticate WebSocket connections to the hub."
+msgstr "Token dan Fingerprint digunakan untuk mengautentikasi koneksi WebSocket ke hub."
+
+#: src/components/ui/chart.tsx
+#: src/components/ui/chart.tsx
+msgid "Total"
+msgstr ""
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Total data received for each interface"
+msgstr "Total data yang diterima untuk setiap antarmuka"
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Total data sent for each interface"
+msgstr "Total data yang dikirim untuk setiap antarmuka"
+
+#: src/components/routes/system/disk-io-sheet.tsx
+msgctxt "Disk I/O"
+msgid "Total time spent on read/write (can exceed 100%)"
+msgstr "Total waktu yang dihabiskan untuk baca/tulis (dapat melebihi 100%)"
+
+#. placeholder {0}: data.length
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Total: {0}"
+msgstr ""
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Triggered by"
+msgstr "Dipicu oleh"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Triggers"
+msgstr "Pemicu"
+
+#: src/lib/alerts.ts
+msgid "Triggers when 1 minute load average exceeds a threshold"
+msgstr "Dipicu ketika rata-rata beban 1 menit melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when 15 minute load average exceeds a threshold"
+msgstr "Dipicu ketika rata-rata beban 15 menit melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when 5 minute load average exceeds a threshold"
+msgstr "Dipicu ketika rata-rata beban 5 menit melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when a container's health check reports unhealthy"
+msgstr "Dipicu saat pemeriksaan kesehatan kontainer melaporkan status tidak sehat"
+
+#: src/lib/alerts.ts
+msgid "Triggers when any sensor exceeds a threshold"
+msgstr "Dipicu ketika sensor apa pun melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when any systemd service enters the failed state"
+msgstr "Dipicu saat layanan systemd memasuki status gagal"
+
+#: src/lib/alerts.ts
+msgid "Triggers when battery charge drops below a threshold"
+msgstr "Dipicu ketika baterai turun di bawah ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when combined up/down exceeds a threshold"
+msgstr "Dipicu ketika up atau down melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when CPU I/O wait exceeds a threshold"
+msgstr "Terpicu saat waktu tunggu I/O CPU melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when CPU steal time exceeds a threshold"
+msgstr "Terpicu saat waktu steal CPU melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when CPU usage exceeds a threshold"
+msgstr "Dipicu ketika penggunaan CPU melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when GPU usage exceeds a threshold"
+msgstr "Dipicu ketika penggunaan GPU melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when memory usage exceeds a threshold"
+msgstr "Dipicu ketika penggunaan memori melebihi ambang batas"
+
+#: src/lib/alerts.ts
+msgid "Triggers when status switches between up and down"
+msgstr "Dipicu ketika status beralih antara up dan down"
+
+#: src/lib/alerts.ts
+msgid "Triggers when usage of any disk exceeds a threshold"
+msgstr "Dipicu ketika penggunaan disk apa pun melebihi ambang batas"
+
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/settings/quiet-hours.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Type"
+msgstr "Tipe"
+
+#: src/lib/alerts.ts
+msgid "Unhealthy"
+msgstr "Tidak sehat"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Unit file"
+msgstr "File unit"
+
+#. Temperature / network units
+#: src/components/routes/settings/general.tsx
+msgid "Unit preferences"
+msgstr "Pengaturan satuan"
+
+#: src/components/command-palette.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "Universal token"
+msgstr "Token universal"
+
+#. Context: Battery state
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/lib/i18n.ts
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Unlimited"
+msgstr "Tidak terbatas"
+
+#. Context: System is up
+#: src/components/routes/system/info-bar.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Up"
+msgstr "Nyala"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Up ({upSystemsLength})"
+msgstr "Nyala selama ({upSystemsLength})"
+
+#: src/components/routes/settings/quiet-hours.tsx
+msgid "Update"
+msgstr "Perbarui"
+
+#: src/components/containers-table/containers-table-columns.tsx
+#: src/components/routes/system/smart-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/systemd-table/systemd-table-columns.tsx
+msgid "Updated"
+msgstr "Diperbarui"
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Updated every 10 minutes."
+msgstr "Diperbarui setiap 10 menit."
+
+#: src/components/routes/system/network-sheet.tsx
+msgid "Upload"
+msgstr "Unggah"
+
+#: src/components/routes/system/info-bar.tsx
+#: src/components/systems-table/systems-table-columns.tsx
+msgid "Uptime"
+msgstr "Waktu aktif"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/routes/system/charts/gpu-charts.tsx
+#: src/components/routes/system/charts/gpu-charts.tsx
+#: src/components/routes/system/charts/gpu-charts.tsx
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+#: src/components/routes/system/cpu-sheet.tsx
+msgid "Usage"
+msgstr "Penggunaan"
+
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+msgid "Usage of storage pool {displayName}"
+msgstr "Penggunaan pool penyimpanan {displayName}"
+
+#: src/components/routes/system/charts/memory-charts.tsx
+#: src/components/routes/system/charts/memory-charts.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Used"
+msgstr "Digunakan"
+
+#: src/components/command-palette.tsx
+#: src/components/navbar.tsx
+msgid "Users"
+msgstr "Pengguna"
+
+#: src/components/routes/system/charts/disk-charts.tsx
+msgctxt "Disk I/O utilization"
+msgid "Utilization"
+msgstr "Utilisasi"
+
+#: src/components/alerts-history-columns.tsx
+msgid "Value"
+msgstr "Nilai"
+
+#: src/components/systems-table/systems-table.tsx
+msgid "View"
+msgstr "Lihat"
+
+#: src/components/routes/system/cpu-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/network-sheet.tsx
+msgid "View more"
+msgstr "Lihat lebih banyak"
+
+#: src/components/routes/settings/alerts-history-data-table.tsx
+msgid "View your 200 most recent alerts."
+msgstr "Lihat 200 peringatan terbaru anda."
+
+#: src/components/systems-table/systems-table.tsx
+msgid "Visible Fields"
+msgstr "Metrik yang Terlihat"
+
+#: src/components/routes/system/chart-card.tsx
+msgid "Waiting for enough records to display"
+msgstr "Menunggu cukup record untuk ditampilkan"
+
+#: src/components/routes/settings/general.tsx
+msgid "Want to help improve our translations? Check <0>Crowdin</0> for details."
+msgstr "Ingin membantu meningkatkan terjemahan kami? Periksa <0>Crowdin</0> untuk detail."
+
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Wants"
+msgstr "Menginginkan"
+
+#: src/components/routes/settings/general.tsx
+msgid "Warning (%)"
+msgstr "Peringatan (%)"
+
+#: src/components/routes/settings/general.tsx
+msgid "Warning thresholds"
+msgstr "Ambang peringatan"
+
+#: src/components/routes/settings/notifications.tsx
+msgid "Webhook / Push notifications"
+msgstr "Webhook / Push notifikasi"
+
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgid "When enabled, this token allows agents to self-register without prior system creation."
+msgstr "Ketika diaktifkan, token ini memungkinkan agen untuk mendaftar sendiri tanpa pembuatan sistem."
+
+#: src/components/routes/settings/heartbeat.tsx
+msgid "When using POST, each heartbeat includes a JSON payload with system status summary, list of down systems, and triggered alerts."
+msgstr "Saat menggunakan POST, setiap heartbeat menyertakan payload JSON dengan ringkasan status sistem, daftar sistem yang mati, dan peringatan yang dipicu."
+
+#: src/components/add-system.tsx
+#: src/components/routes/settings/tokens-fingerprints.tsx
+msgctxt "Button to copy install command"
+msgid "Windows command"
+msgstr "Perintah Windows"
+
+#. Disk write
+#. Disk write
+#: src/components/routes/system/charts/disk-charts.tsx
+#: src/components/routes/system/charts/storage-pool-charts.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+#: src/components/routes/system/disk-io-sheet.tsx
+msgid "Write"
+msgstr "Tulis"
+
+#: src/components/routes/system/storage-pools-table.tsx
+msgid "Write errors"
+msgstr "Kesalahan tulis"
+
+#: src/components/routes/settings/layout.tsx
+msgid "YAML Config"
+msgstr "Konfigurasi YAML"
+
+#: src/components/routes/settings/config-yaml.tsx
+msgid "YAML Configuration"
+msgstr "Konfigurasi YAML"
+
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+#: src/components/systemd-table/systemd-table.tsx
+msgid "Yes"
+msgstr "Ya"
+
+#: src/components/routes/settings/layout.tsx
+msgid "Your user settings have been updated."
+msgstr "Pengaturan pengguna anda telah diperbarui."
